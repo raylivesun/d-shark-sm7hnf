@@ -1,0 +1,18 @@
+Frame 281: 67 bytes on wire (536 bits), 67 bytes captured (536 bits) on interface lo, id 0
+    Interface id: 0 (lo)
+    Encapsulation type: Ethernet (1)
+    Arrival Time: Jan 23, 2025 09:42:17.510152152 -03
+    [Time shift for this packet: 0.000000000 seconds]
+    Epoch Time: 1737636137.510152152 seconds
+    [Time delta from previous captured frame: 0.000019970 seconds]
+    [Time delta from previous displayed frame: 0.000019970 seconds]
+    [Time since reference or first frame: 18.006778863 seconds]
+    Frame Number: 281
+    Frame Length: 67 bytes (536 bits)
+    Capture Length: 67 bytes (536 bits)
+    [Frame is marked: False]
+    [Frame is ignored: False]
+    [Protocols in frame: eth:ethertype:ip:tcp:data]
+    [Coloring Rule Name: TCP]
+    [Coloring Rule String: tcp]
+

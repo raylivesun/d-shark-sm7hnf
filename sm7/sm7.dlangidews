@@ -1,0 +1,9 @@
+{
+    "name": "sm7",
+    "description": null,
+    "projects": {
+        "hnf": "hnf/dub.json"
+    },
+    "includePath": {
+    }
+}

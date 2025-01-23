@@ -1,0 +1,6 @@
+{
+    "name": "hnf",
+    "targetName": "hnf",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

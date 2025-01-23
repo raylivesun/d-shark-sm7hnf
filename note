@@ -1,0 +1,86 @@
+Created by Wireshark 3.6.2 (Git v3.6.2 packaged as 3.6.2-2)
+
+File
+
+Name:
+/tmp/wireshark_lo4S4C12.pcapng
+Length:
+41 kB
+Hash (SHA256):
+ee462f138781cb14735bd317798425e068dc1bf9e2641300a71ba7fbc83fb505
+Hash (RIPEMD160):
+51b7f747b51476a6720344cd070c9cd51626995a
+Hash (SHA1):
+fea05c7fa7e102abfe4ae86f23445227b05e1b60
+Format:
+Wireshark/... - pcapng
+Encapsulation:
+Ethernet
+
+Time
+
+First packet:
+2025-01-23 09:41:59
+Last packet:
+2025-01-23 09:42:17
+Elapsed:
+00:00:18
+
+Capture
+
+Hardware:
+Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz (with SSE4.2)
+OS:
+Linux 6.9.3-76060903-generic
+Application:
+Dumpcap (Wireshark) 3.6.2 (Git v3.6.2 packaged as 3.6.2-2)
+
+Interfaces
+
+Interface
+Dropped packets
+Capture filter
+Link type
+Packet size limit (snaplen)
+lo
+0 (0.0%)
+none
+Ethernet
+262144 bytes
+
+Statistics
+
+Measurement
+Captured
+Displayed
+Marked
+Packets
+288
+288 (100.0%)
+—
+Time span, s
+18.007
+18.007
+—
+Average pps
+16.0
+16.0
+—
+Average packet size, B
+109
+109
+—
+Bytes
+31386
+31386 (100.0%)
+0
+Average bytes/s
+1,742
+1,742
+—
+Average bits/s
+13 k
+13 k
+—
+
+
