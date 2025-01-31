@@ -1,3 +1,40 @@
 {
-    "startupProject": "hnf"
+    "startupProject": "hnf",
+    "expandedItems": [
+        "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/dub.json",
+        "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source"
+    ],
+    "selectedWorkspaceItem": "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source/suius",
+    "files": [
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source/suius/ocwiamok.d",
+            "column": 14,
+            "row": 57
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source/suius/urchyoox.d",
+            "column": 935,
+            "row": 19
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source/suius/toucdytmec.d",
+            "column": 249,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source/suius/tynamjorsh.d",
+            "column": 47,
+            "row": 5
+        },
+        {
+            "file": "/home/admin/app/dlang-komodo/d-shark-sm7hnf/sm7/hnf/source/suius/gakimreig.d",
+            "column": 1,
+            "row": 0
+        }
+    ]
 }
